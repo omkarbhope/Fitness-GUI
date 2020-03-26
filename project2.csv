@@ -1,0 +1,323 @@
+﻿SR. NO.,BMI,GYM,DIET,EXERCISE
+1,10,TRUE,Milk,Squats
+2,10,TRUE,Banana,Tredmill
+3,10,TRUE,Bread,Lunges
+4,10,TRUE,Cheese,Pullups
+5,10,TRUE,Yoghurt,Dumbbells
+6,10,FALSE,Meat,Running
+7,10,FALSE,Paneer,Pushups
+8,10,FALSE,Boiled Eggs,Yoga
+9,10,FALSE,Carrot,Crunches
+10,10,FALSE,Chiken,Dancing
+11,11,TRUE,Fruits,Swimming
+12,11,TRUE,Brown Rice,Skipping
+13,11,TRUE,Green Vegetables,Weight Lifting
+14,11,TRUE,Milk,Planks
+15,11,TRUE,Banana,Situps
+16,11,FALSE,Bread,Glute Bridge
+17,11,FALSE,Cheese,Pullups
+18,11,FALSE,Yoghurt,Dumbbells
+19,11,FALSE,Meat,Running
+20,11,FALSE,Paneer,Pushups
+21,12,TRUE,Boiled Eggs,Yoga
+22,12,TRUE,Carrot,Crunches
+23,12,TRUE,Paneer,Dancing
+24,12,TRUE,Boiled Eggs,Swimming
+25,12,TRUE,Carrot,Skipping
+26,12,FALSE,Chiken,Weight Lifting
+27,12,FALSE,Fruits,Crunches
+28,12,FALSE,Brown Rice,Dancing
+29,12,FALSE,Green Vegetables,Swimming
+30,12,FALSE,Milk,Skipping
+31,13,TRUE,Banana,Weight Lifting
+32,13,TRUE,Bread,Planks
+33,13,TRUE,Cheese,Situps
+34,13,TRUE,Fruits,Glute Bridge
+35,13,TRUE,Brown Rice,Pullups
+36,13,FALSE,Green Vegetables,Dumbbells
+37,13,FALSE,Milk,Crunches
+38,13,FALSE,Banana,Pushups
+39,13,FALSE,Bread,Squats
+40,13,FALSE,Cheese,Tredmill
+41,14,TRUE,Yoghurt,Lunges
+42,14,TRUE,Meat,Pullups
+43,14,TRUE,Paneer,Dumbbells
+44,14,TRUE,Boiled Eggs,Running
+45,14,TRUE,Carrot,Pushups
+46,14,FALSE,Paneer,Yoga
+47,14,FALSE,Milk,Crunches
+48,14,FALSE,Banana,Dancing
+49,14,FALSE,Bread,Lunges
+50,14,FALSE,Cheese,Pullups
+51,15,TRUE,Yoghurt,Dumbbells
+52,15,TRUE,Meat,Running
+53,15,TRUE,Paneer,Pushups
+54,15,TRUE,Boiled Eggs,Yoga
+55,15,TRUE,Carrot,Crunches
+56,15,FALSE,Chiken,Dancing
+57,15,FALSE,Fruits,Swimming
+58,15,FALSE,Brown Rice,Skipping
+59,15,FALSE,Green Vegetables,Weight Lifting
+60,15,FALSE,Yoghurt,Planks
+61,16,TRUE,Meat,Situps
+62,16,TRUE,Paneer,Glute Bridge
+63,16,TRUE,Boiled Eggs,Pullups
+64,16,TRUE,Carrot,Dumbbells
+65,16,TRUE,Milk,Running
+66,16,FALSE,Banana,Pushups
+67,16,FALSE,Bread,Yoga
+68,16,FALSE,Cheese,Crunches
+69,16,FALSE,Yoghurt,Dancing
+70,16,FALSE,Meat,Swimming
+71,17,TRUE,Paneer,Skipping
+72,17,TRUE,Boiled Eggs,Weight Lifting
+73,17,TRUE,Carrot,Planks
+74,17,TRUE,Chiken,Situps
+75,17,TRUE,Fruits,Glute Bridge
+76,17,FALSE,Brown Rice,Pullups
+77,17,FALSE,Green Vegetables,Dumbbells
+78,17,FALSE,Carrot,Squats
+79,17,FALSE,Chiken,Tredmill
+80,17,FALSE,Fruits,Lunges
+81,18,TRUE,Brown Rice,Pullups
+82,18,TRUE,Green Vegetables,Dumbbells
+83,18,TRUE,Milk,Running
+84,18,TRUE,Banana,Pushups
+85,18,TRUE,Bread,Yoga
+86,18,FALSE,Cheese,Crunches
+87,18,FALSE,Yoghurt,Dancing
+88,18,FALSE,Meat,Swimming
+89,18,FALSE,Paneer,Skipping
+90,18,FALSE,Boiled Eggs,Weight Lifting
+91,19,TRUE,Carrot,Planks
+92,19,TRUE,Chiken,Situps
+93,19,TRUE,Fruits,Glute Bridge
+94,19,TRUE,Brown Rice,Squats
+95,19,TRUE,Green Vegetables,Tredmill
+96,19,FALSE,Cheese,Lunges
+97,19,FALSE,Yoghurt,Pullups
+98,19,FALSE,Meat,Dumbbells
+99,19,FALSE,Paneer,Running
+100,19,FALSE,Boiled Eggs,Pushups
+101,20,TRUE,Carrot,Yoga
+102,20,TRUE,Chiken,Crunches
+103,20,TRUE,Fruits,Dancing
+104,20,TRUE,Brown Rice,Swimming
+105,20,TRUE,Green Vegetables,Skipping
+106,20,FALSE,Milk,Weight Lifting
+107,20,FALSE,Banana,Planks
+108,20,FALSE,Bread,Situps
+109,20,FALSE,Cheese,Glute Bridge
+110,20,FALSE,Yoghurt,Squats
+111,21,TRUE,Meat,Tredmill
+112,21,TRUE,Paneer,Lunges
+113,21,TRUE,Boiled Eggs,Pullups
+114,21,TRUE,Carrot,Dumbbells
+115,21,TRUE,Chiken,Running
+116,21,FALSE,Fruits,Pushups
+117,21,FALSE,Brown Rice,Yoga
+118,21,FALSE,Green Vegetables,Crunches
+119,21,FALSE,Milk,Dancing
+120,21,FALSE,Banana,Swimming
+121,22,TRUE,Bread,Skipping
+122,22,TRUE,Cheese,Weight Lifting
+123,22,TRUE,Yoghurt,Planks
+124,22,TRUE,Meat,Situps
+125,22,TRUE,Paneer,Glute Bridge
+126,22,FALSE,Boiled Eggs,Squats
+127,22,FALSE,Carrot,Tredmill
+128,22,FALSE,Chiken,Lunges
+129,22,FALSE,Fruits,Pullups
+130,22,FALSE,Brown Rice,Dumbbells
+131,23,TRUE,Green Vegetables,Running
+132,23,TRUE,Milk,Pushups
+133,23,TRUE,Banana,Yoga
+134,23,TRUE,Bread,Crunches
+135,23,TRUE,Cheese,Dancing
+136,23,FALSE,Yoghurt,Swimming
+137,23,FALSE,Meat,Skipping
+138,23,FALSE,Paneer,Weight Lifting
+139,23,FALSE,Boiled Eggs,Planks
+140,23,FALSE,Carrot,Situps
+141,24,TRUE,Chiken,Glute Bridge
+142,24,TRUE,Fruits,Squats
+143,24,TRUE,Brown Rice,Tredmill
+144,24,TRUE,Green Vegetables,Lunges
+145,24,TRUE,Milk,Pullups
+146,24,FALSE,Banana,Dumbbells
+147,24,FALSE,Bread,Running
+148,24,FALSE,Cheese,Pushups
+149,24,FALSE,Yoghurt,Yoga
+150,24,FALSE,Meat,Crunches
+151,25,TRUE,Paneer,Dancing
+152,25,TRUE,Boiled Eggs,Swimming
+153,25,TRUE,Carrot,Skipping
+154,25,TRUE,Chiken,Weight Lifting
+155,25,TRUE,Fruits,Planks
+156,25,FALSE,Brown Rice,Situps
+157,25,FALSE,Green Vegetables,Glute Bridge
+158,25,FALSE,Cheese,Squats
+159,25,FALSE,Yoghurt,Tredmill
+160,25,FALSE,Meat,Lunges
+161,26,TRUE,Paneer,Pullups
+162,26,TRUE,Boiled Eggs,Dumbbells
+163,26,TRUE,Carrot,Running
+164,26,TRUE,Chiken,Pushups
+165,26,TRUE,Fruits,Yoga
+166,26,FALSE,Brown Rice,Crunches
+167,26,FALSE,Green Vegetables,Dancing
+168,26,FALSE,Milk,Swimming
+169,26,FALSE,Banana,Skipping
+170,26,FALSE,Bread,Weight Lifting
+171,27,TRUE,Cheese,Planks
+172,27,TRUE,Yoghurt,Situps
+173,27,TRUE,Meat,Glute Bridge
+174,27,TRUE,Paneer,Yoga
+175,27,TRUE,Boiled Eggs,Crunches
+176,27,FALSE,Carrot,Dancing
+177,27,FALSE,Chiken,Swimming
+178,27,FALSE,Fruits,Skipping
+179,27,FALSE,Brown Rice,Weight Lifting
+180,27,FALSE,Green Vegetables,Planks
+181,28,TRUE,Yoghurt,Situps
+182,28,TRUE,Meat,Glute Bridge
+183,28,TRUE,Paneer,Squats
+184,28,TRUE,Boiled Eggs,Tredmill
+185,28,TRUE,Carrot,Lunges
+186,28,FALSE,Chiken,Pullups
+187,28,FALSE,Fruits,Dumbbells
+188,28,FALSE,Brown Rice,Running
+189,28,FALSE,Green Vegetables,Pushups
+190,28,FALSE,Milk,Yoga
+191,29,TRUE,Banana,Crunches
+192,28,TRUE,Bread,Dancing
+193,28,TRUE,Cheese,Swimming
+194,28,TRUE,Yoghurt,Skipping
+195,28,TRUE,Meat,Weight Lifting
+196,28,FALSE,Paneer,Planks
+197,28,FALSE,Boiled Eggs,Situps
+198,28,FALSE,Carrot,Glute Bridge
+199,28,FALSE,Chiken,Swimming
+200,28,FALSE,Fruits,Skipping
+201,29,TRUE,Brown Rice,Weight Lifting
+202,29,TRUE,Green Vegetables,Planks
+203,29,TRUE,Banana,Situps
+204,29,TRUE,Bread,Glute Bridge
+205,29,TRUE,Cheese,Squats
+206,29,FALSE,Yoghurt,Tredmill
+207,29,FALSE,Meat,Lunges
+208,29,FALSE,Paneer,Pullups
+209,29,FALSE,Boiled Eggs,Dumbbells
+210,29,FALSE,Carrot,Running
+211,30,TRUE,Chiken,Pushups
+212,30,TRUE,Fruits,Yoga
+213,30,TRUE,Brown Rice,Crunches
+214,30,TRUE,Green Vegetables,Dancing
+215,30,TRUE,Milk,Swimming
+216,30,FALSE,Banana,Skipping
+217,30,FALSE,Bread,Weight Lifting
+218,30,FALSE,Cheese,Planks
+219,30,FALSE,Yoghurt,Situps
+220,30,FALSE,Meat,Glute Bridge
+221,31,TRUE,Paneer,Yoga
+222,31,TRUE,Boiled Eggs,Squats
+223,31,TRUE,Carrot,Tredmill
+224,31,TRUE,Chiken,Lunges
+225,31,TRUE,Fruits,Pullups
+226,31,FALSE,Brown Rice,Dumbbells
+227,31,FALSE,Green Vegetables,Running
+228,31,FALSE,Bread,Pushups
+229,31,FALSE,Cheese,Yoga
+230,31,FALSE,Yoghurt,Crunches
+231,32,TRUE,Meat,Dancing
+232,32,TRUE,Paneer,Swimming
+233,32,TRUE,Boiled Eggs,Skipping
+234,32,TRUE,Carrot,Weight Lifting
+235,32,TRUE,Chiken,Planks
+236,32,FALSE,Fruits,Situps
+237,32,FALSE,Brown Rice,Glute Bridge
+238,32,FALSE,Green Vegetables,Running
+239,32,FALSE,Milk,Pushups
+240,32,FALSE,Banana,Yoga
+241,33,TRUE,Bread,Crunches
+242,33,TRUE,Cheese,Dancing
+243,33,TRUE,Yoghurt,Swimming
+244,33,TRUE,Meat,Skipping
+245,33,TRUE,Paneer,Weight Lifting
+246,33,FALSE,Boiled Eggs,Planks
+247,33,FALSE,Carrot,Situps
+248,33,FALSE,Chiken,Glute Bridge
+249,33,FALSE,Fruits,Squats
+250,33,FALSE,Brown Rice,Tredmill
+251,34,TRUE,Green Vegetables,Lunges
+252,34,TRUE,Banana,Pullups
+253,34,TRUE,Bread,Dumbbells
+254,34,TRUE,Cheese,Running
+255,34,TRUE,Yoghurt,Pushups
+256,34,FALSE,Meat,Yoga
+257,34,FALSE,Paneer,Crunches
+258,34,FALSE,Boiled Eggs,Dancing
+259,34,FALSE,Carrot,Swimming
+260,34,FALSE,Chiken,Skipping
+261,35,TRUE,Fruits,Weight Lifting
+262,35,TRUE,Brown Rice,Planks
+263,35,TRUE,Green Vegetables,Situps
+264,35,TRUE,Milk,Glute Bridge
+265,35,TRUE,Banana,Yoga
+266,35,FALSE,Bread,Crunches
+267,35,FALSE,Cheese,Dancing
+268,35,FALSE,Yoghurt,Swimming
+269,35,FALSE,Meat,Skipping
+270,35,FALSE,Paneer,Weight Lifting
+271,36,TRUE,Boiled Eggs,Planks
+272,36,TRUE,Carrot,Situps
+273,36,TRUE,Chiken,Glute Bridge
+274,36,TRUE,Fruits,Squats
+275,36,TRUE,Brown Rice,Tredmill
+276,36,FALSE,Green Vegetables,Lunges
+277,36,FALSE,Paneer,Pullups
+278,36,FALSE,Boiled Eggs,Dumbbells
+279,36,FALSE,Carrot,Running
+280,36,FALSE,Chiken,Pushups
+281,37,TRUE,Fruits,Yoga
+282,37,TRUE,Brown Rice,Crunches
+283,37,TRUE,Green Vegetables,Dancing
+284,37,TRUE,Milk,Swimming
+285,37,TRUE,Banana,Skipping
+286,37,FALSE,Bread,Weight Lifting
+287,37,FALSE,Cheese,Planks
+288,37,FALSE,Yoghurt,Situps
+289,37,FALSE,Meat,Glute Bridge
+290,37,FALSE,Paneer,Tredmill
+291,38,TRUE,Boiled Eggs,Lunges
+292,38,TRUE,Carrot,Pullups
+293,38,TRUE,Chiken,Dumbbells
+294,38,TRUE,Fruits,Running
+295,38,TRUE,Brown Rice,Pushups
+296,38,FALSE,Green Vegetables,Yoga
+297,38,FALSE,Milk,Crunches
+298,38,FALSE,Banana,Dancing
+299,38,FALSE,Bread,Swimming
+300,38,FALSE,Cheese,Skipping
+301,39,TRUE,Yoghurt,Weight Lifting
+302,39,TRUE,Meat,Planks
+303,39,TRUE,Paneer,Situps
+304,39,TRUE,Boiled Eggs,Glute Bridge
+305,39,TRUE,Carrot,Squats
+306,39,FALSE,Chiken,Tredmill
+307,39,FALSE,Fruits,Lunges
+308,39,FALSE,Brown Rice,Pullups
+309,39,FALSE,Green Vegetables,Dumbbells
+310,39,FALSE,Milk,Running
+311,40,TRUE,Banana,Pushups
+312,40,TRUE,Bread,Yoga
+313,40,TRUE,Cheese,Crunches
+314,40,TRUE,Yoghurt,Dancing
+315,40,TRUE,Meat,Swimming
+316,40,FALSE,Paneer,Skipping
+317,40,FALSE,Boiled Eggs,Weight Lifting
+318,40,FALSE,Carrot,Planks
+319,40,FALSE,Chiken,Situps
+320,40,FALSE,Fruits,Glute Bridge
+,,,,
+,,,,
